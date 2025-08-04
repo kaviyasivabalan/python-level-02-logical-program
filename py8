@@ -1,0 +1,11 @@
+print("triangle program")
+print("----------------")
+A=int(input("enter the A value:"))
+B=int(input("enter the B value:"))
+C=int(input("enter the C value:"))
+H=int(input("enter the H value:"))
+print("result")
+peri=A+B+C
+print("perimeter of triangle:",peri)
+area=1/2*B*H
+print("area of triangle:",area)
