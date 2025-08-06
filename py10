@@ -1,0 +1,15 @@
+print("exponential program")
+print("-------------------")
+X=int(input("Enter X value:"))
+Y=int(input("enter Y value:"))
+Z=int(input("Enter Z value:"))
+print("result")
+P=X*X+Y*Y+Z*Z
+print("P=",P)
+Q=X*X*X+Y*Y+Z*Z+20
+print("Q=",Q)
+R=(X*X)*Y+(Y*Y)*Z+(Z*Z)*X+10
+print("R=",R)
+S=(X+X+X)*(Y*Y)*Z+2*(X*Y*Z)+X*Y*Z
+print("S=",S)
+      
