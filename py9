@@ -1,0 +1,10 @@
+print("sum of N number")
+print("---------------")
+n=int(input("enter the N value:"))
+print("result")
+sum=n*(n+1)/2
+print("sum:",sum)
+sq=n*(n+1)*(2*n+1)/6
+print("sum square:",sq)
+c=(n*(n+1)/2)*(n*(n+1)/2)
+print("sum cube:",c)
